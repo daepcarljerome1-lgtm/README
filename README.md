@@ -1,7 +1,6 @@
 # Reverse App 
 
 ## Compilation & Run
-```bash
 javac ReverseApp.java Reverser.java StackX.java
 java ReverseApp
 
@@ -24,6 +23,8 @@ Enhancements Implemented
 
 Sample I/O
 
+<img width="1920" height="970" alt="Image" src="https://github.com/user-attachments/assets/eef46977-b46a-4157-80ef-8e35d72b9943" />
+<img width="1920" height="236" alt="Image" src="https://github.com/user-attachments/assets/972d14aa-b9d1-48ca-a056-017741be596a" />
 
 
 Complexity
