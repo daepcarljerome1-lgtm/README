@@ -24,25 +24,8 @@ Enhancements Implemented
 
 Sample I/O
 
-1. Reverse Entire String
-Input: Carl Jerome Daep
-Output: peaD emoreJ lraC
+<img width="1920" height="236" alt="image" src="https://github.com/user-attachments/assets/b9fdd2aa-dc7c-4b2b-bae0-e34ad287e5d7" />
 
-2. Reverse Each Word In-Place
-Input: Carl Jerome Daep
-Output: lraC emoreJ peaD
-
-3. Palindrome Checker
-Input: No lemon, no melon
-Output: true
-
-4. Balanced Brackets Validator
-Input:  {[()]}
-Output: Balanced!
-
-4. Balanced Brackets Validator
-Input: {[(])}
-Output: Error: mismatched ']' at position 3 
 
 Complexity
 
