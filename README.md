@@ -1,4 +1,4 @@
-# Reverser App (Extended)
+# Reverse App 
 
 ## Compilation & Run
 ```bash
@@ -8,19 +8,19 @@ java ReverseApp
 
 Features
 
-Reverse entire string
+- Reverse entire string
 
-Reverse each word in-place
+- Reverse each word in-place
 
-Palindrome checker (ignores spaces/punctuation/case)
+- Palindrome checker (ignores spaces/punctuation/case)
 
-Balanced brackets validator
+- Balanced brackets validator
 
 Enhancements Implemented
 
-CLI menu for choosing tasks
+- CLI menu for choosing tasks
 
-Refactored StackX into a generic class
+- Refactored StackX into a generic class
 
 Sample I/O
 
@@ -57,10 +57,10 @@ Output: Balanced!
 
 Complexity
 
-Reverse string: O(n) time, O(n) space
+- Reverse string: O(n) time, O(n) space
 
-Reverse words: O(n) time, O(n) space
+- Reverse words: O(n) time, O(n) space
 
-Palindrome checker: O(n) time, O(n/2) space
+- Palindrome checker: O(n) time, O(n/2) space
 
-Bracket validation: O(n) time, O(n) space
+- Bracket validation: O(n) time, O(n) space
