@@ -25,35 +25,24 @@ Enhancements Implemented
 Sample I/O
 
 1. Reverse Entire String
-Input: hello world
-Output: dlrow olleh
+Input: Carl Jerome Daep
+Output: peaD emoreJ lraC
 
 2. Reverse Each Word In-Place
-Input: hello world
-Output: olleh dlrow
+Input: Carl Jerome Daep
+Output: lraC emoreJ peaD
 
 3. Palindrome Checker
-Input: "A man, a plan, a canal: Panama"
+Input: No lemon, no melon
 Output: true
 
 4. Balanced Brackets Validator
-Input: "{[()]}"
+Input:  {[()]}
 Output: Balanced!
-1. Reverse Entire String
-Input: hello world
-Output: dlrow olleh
-
-2. Reverse Each Word In-Place
-Input: hello world
-Output: olleh dlrow
-
-3. Palindrome Checker
-Input: "A man, a plan, a canal: Panama"
-Output: true
 
 4. Balanced Brackets Validator
-Input: "{[()]}"
-Output: Balanced!
+Input: {[(])}
+Output: Error: mismatched ']' at position 3 
 
 Complexity
 
