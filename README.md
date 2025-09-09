@@ -24,7 +24,9 @@ Enhancements Implemented
 
 Sample I/O
 
-<img width="1920" height="236" alt="image" src="https://github.com/user-attachments/assets/b9fdd2aa-dc7c-4b2b-bae0-e34ad287e5d7" />
+<img width="1920" height="970" alt="Image" src="https://github.com/user-attachments/assets/f3f102f6-75fc-481d-bb72-7ae714b13476" />
+
+<img width="1920" height="236" alt="Image" src="https://github.com/user-attachments/assets/e0ad0ea6-2917-42f9-9762-1ee87a62a68e" />
 
 
 Complexity
